@@ -39,7 +39,6 @@ apis:
   - name: Lyrics.ovh
     description: "Simple API to retrieve the lyrics of a song"
     humanURL: https://lyricsovh.docs.apiary.io
-    baseURL: https://lyricsovh.docs.apiary.io
     tags:
       - Music
     properties:
